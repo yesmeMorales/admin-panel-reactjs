@@ -10,7 +10,12 @@
 
 # production
 /build
-
+/dist
+/.firebase
+/.vscode
+/config
+config.js
+.firebaserc
 # misc
 .DS_Store
 .env.local
